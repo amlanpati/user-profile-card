@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 The stylized card uses heroicons(@heroicons/react@v1). The stylized card design is as follows:
-![image alt](https://github.com/amlanpati/user-profile-card/blob/60682671a4430fa25e179e1f669213767f47f921/stylized_card.png)
+![image alt](https://github.com/amlanpati/user-profile-card/blob/master/stylized_card.png?raw=true)
 
 The simple card is commented in the code. The simple card design is as follows:
-![image alt](https://github.com/amlanpati/user-profile-card/blob/60682671a4430fa25e179e1f669213767f47f921/simple_card.png)
+![image alt](https://github.com/amlanpati/user-profile-card/blob/master/simple_card.png?raw=true)
